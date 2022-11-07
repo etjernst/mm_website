@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hugo Portfolio Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Inspired Freediving # Website name
+baseURL: 'https://inspired-freediving.netlify.app' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -15,9 +15,9 @@ cascade:
   - _target:
       path: /post/**
     editable: true
-    reading_time: true
-    commentable: true
-    show_related: true
+    reading_time: false
+    commentable: false
+    show_related: false
     show_breadcrumb: true
 
 ############################

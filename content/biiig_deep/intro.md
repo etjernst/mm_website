@@ -48,7 +48,11 @@ January 15-21, 2023
 
 The gorgeous [Hideaway Resort and Marine Sanctuary](https://www.hideaway.com.vu/) in Mele, Vanuatu.
 
-Hideaway Resort is surrounded by crystal clear, warm waters and 15 [world-class dive sites](https://www.hideaway.com.vu/diving/dive-sites.htmls)...
+Hideaway Resort is on a small coral atoll that's basically an unspoiled island paradise.
+
+The resort is located just a few minutes by ferry from the mainland beach, and is surrounded by crystal clear, warm waters and 15 [world-class dive sites](https://www.hideaway.com.vu/diving/dive-sites.htmls)...  
+
+![Hideaway](Vanuatu-Port-Vila-Hideaway-Island-Grounds-and-Surrounds-Hideaway-Island-8.jpg)
 
 This paradise island even has the world's only underwater post office!
 

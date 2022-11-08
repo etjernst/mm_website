@@ -61,8 +61,12 @@ The retreat cost is $1200. This includes
 * a course if you choose
 * ...and more!
 
-Spots are limited to 20 people
+{{% callout warning %}}
+* Spots are limited to 20 people
+* Flights are self-organised
+{{% /callout %}}
 
-Flights are self-organised
+
+
 
 For more info please don't hesitate to [contact us](/about/#contact)!

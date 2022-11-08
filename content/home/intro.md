@@ -8,6 +8,13 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
+tite: Inspired Freediving
+
+subtitle: Soulful, educational and enjoyable freediving related activities, training and experiences aiming to holistically develop FREEdiving abilities.
+
+# Show social sharing links?
+share: true
+
 author: admin
 #design:
 #  background:

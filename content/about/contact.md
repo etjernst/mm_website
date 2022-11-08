@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Get in touch
-subtitle:
+subtitle: with Inspired Freediving
 
 content:
   # Automatically link email and phone or display as text?
@@ -23,7 +23,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'

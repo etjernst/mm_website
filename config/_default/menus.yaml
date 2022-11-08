@@ -7,9 +7,12 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: contact
+    url: about/#contact
+    weight: 20
 #  - name: About
 #    url: about/
 #    weight: 20
   - name: Biiig Deep
     url: biiig_deep/
-    weight: 20
+    weight: 30

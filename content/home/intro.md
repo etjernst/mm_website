@@ -17,7 +17,8 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
-{: style="text-align: left" }
+
+<div style="text-align: left">
 
 At Inspired Freediving, our approach to education and skill development<br>
 is based on three pillars of development:
@@ -29,3 +30,8 @@ We support our students in reaching their freediving goals---whatever they may b
 We have years of instructional experience and bring knowledge from a lifetime of watermanship.
 
 We also aim to perform at our optimum, which has seen Inspired Freediving instructors and assistants competing at the National level for Pool competitions and at the Pan-Pacific Pool Championships.
+
+
+![Monofin](monofin.jpg)
+
+</div>

@@ -24,12 +24,9 @@ design:
 
 ---
 
-Inspired Freediving is excited to announce Biiig Deep,<br>
-our new freediving retreat!
+Inspired Freediving is excited to announce Biiig Deep, a freediving trip to remember!
 
 ![Biiig_Deep](biiig_deep.png)
-
-This will be a trip to remember!
 
 Fancy getting out of bed, walking a few steps across a beach, and accessing beautiful, clear, blue, tropical water to dive in?
 
@@ -51,7 +48,11 @@ January 15-21, 2023
 
 The gorgeous [Hideaway Resort and Marine Sanctuary](https://www.hideaway.com.vu/) in Mele, Vanuatu.
 
-## How much?
+Hideaway Resort is surrounded by crystal clear, warm waters and 15 [world-class dive sites](https://www.hideaway.com.vu/diving/dive-sites.htmls)...
+
+This paradise island even has the world's only underwater post office!
+
+## What else do I need to know?
 
 The retreat cost is $1200. This includes
 * accommodation for 6 nights
@@ -60,17 +61,8 @@ The retreat cost is $1200. This includes
 * a course if you choose
 * ...and more!
 
-This paradise island even has the worlds only underwater post office!
+Spots are limited to 20 people
 
-Spots are limited to 20 people.
-
-Flights are self-organised.
+Flights are self-organised
 
 For more info please don't hesitate to [contact us](/about/#contact)!
-
-
-
-
-## About the resort
-
-Hideaway Resort is surrounded by crystal clear, warm waters and 15 [world-class dive sites](https://www.hideaway.com.vu/diving/dive-sites.htmls)...

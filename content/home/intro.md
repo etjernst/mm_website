@@ -28,8 +28,9 @@ author: admin
 <div style="text-align: left">
 
 At Inspired Freediving, our approach to education and skill development<br>
-is based on three pillars of development:
+is based on four pillars of development:
 1. safety
+2. technique
 2. relaxation
 4. fun!
 

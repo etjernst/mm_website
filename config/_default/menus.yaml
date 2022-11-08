@@ -10,6 +10,6 @@ main:
 #  - name: About
 #    url: about/
 #    weight: 20
-  - name: Biig Deep
-    url: biig-deep/
+  - name: Biiig Deep
+    url: biiig_deep/
     weight: 20

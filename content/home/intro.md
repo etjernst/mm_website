@@ -8,9 +8,9 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-tite: Inspired Freediving
+tite: MahindiMaster
 
-subtitle: Soulful, educational and enjoyable freediving related activities, training and experiences aiming to holistically develop FREEdiving abilities.
+subtitle: Virtual Learning for Real Farmers
 
 # Show social sharing links?
 share: true
@@ -27,19 +27,6 @@ author: admin
 
 <div style="text-align: left">
 
-At Inspired Freediving, our approach to education and skill development<br>
-is based on four principles of development:
-1. safety
-2. technique
-2. relaxation
-4. fun!
-
-We support our students in reaching their freediving goals---whatever they may be---using patience, persistence, and an energetic growth mindset.
-We have years of instructional experience and bring knowledge from a lifetime of watermanship.
-
-We also aim to perform at our optimum, which has seen Inspired Freediving instructors and assistants competing at the National level for pool competitions and at the Pan-Pacific Pool Championships.
-
-
-![Monofin](monofin.jpg)
+MahindiMaster is an ambitious project that aims to combine crop modeling, rainfall data and soil information into an app that enables farmers to experiment and learn as they would on their own farm – without risking real investments in purchased inputs. The app enables farmer learning about the complex returns to – and interactions between – different fertilizer and input combinations and soil characteristics, on a virtual field that is calibrated to their own production conditions and context. By making extensive use of animations, we aim to make the app accessible to every type of farmer, including low-literacy smallholder populations, and to enhance the salience of virtual learning setting.
 
 </div>

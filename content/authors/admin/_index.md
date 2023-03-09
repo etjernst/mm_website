@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daron Joseph
+title: Mahindi Master
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Inspired Freediving
+bio: MahindiMaster is an ambitious project that aims to combine crop modeling, rainfall data and soil information into an app that enables farmers to experiment and learn as they would on their own farm – without risking real investments in purchased inputs. The app enables farmer learning about the complex returns to – and interactions between – different fertilizer and input combinations and soil characteristics, on a virtual field that is calibrated to their own production conditions and context. By making extensive use of animations, we aim to make the app accessible to every type of farmer, including low-literacy smallholder populations, and to enhance the salience of virtual learning setting.
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,13 @@ bio: Inspired Freediving
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/inspired_freediving
+    link: '/#contact' # For a direct email link, use "mailto:test@example.org".
+ - icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/mahindi_master
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://instagram.com/inspired_freediving
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

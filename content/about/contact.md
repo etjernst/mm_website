@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Get in touch
-subtitle: with Inspired Freediving
+subtitle: with the MahindiMaster team
 
 content:
   # Automatically link email and phone or display as text?

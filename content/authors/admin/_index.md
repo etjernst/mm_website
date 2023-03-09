@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 'Mahindi Master'
+title: Mahindi Master
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 
 
 #interests:
 #- Artificial Intelligence
@@ -65,6 +65,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+
+Something here
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

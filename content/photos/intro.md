@@ -24,7 +24,7 @@ design:
 
 ---
 
-{{< gallery album="various" resize_options="300x">}}
+{{< gallery album="various">}}
 
 
 

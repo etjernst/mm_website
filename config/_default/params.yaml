@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Mahindi Master website'
-    twitter: 'mahindi_master'
+    description: Mahindi Master website
+    twitter: mahindi_master
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: https://github.com/etjernst/mm_website
+    url: 'https://github.com/etjernst/mm_website'
     content_dir: content
     branch: main
   avatar:

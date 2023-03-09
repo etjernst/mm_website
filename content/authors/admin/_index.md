@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: MahindiMaster
 
 #interests:
 #- Artificial Intelligence
@@ -44,7 +44,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: '' # For a direct email link, use "mailto:test@example.org".
  - icon: twitter
    icon_pack: fab
    link: https://twitter.com/mahindi_master

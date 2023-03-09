@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/etjernst/mm_website'
+    url: https://github.com/etjernst/mm_website
     content_dir: content
     branch: main
   avatar:
